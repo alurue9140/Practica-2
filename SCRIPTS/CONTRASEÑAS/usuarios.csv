@@ -1,7 +1,7 @@
-cuenta,password,nombre,descripcion,grupo
-Alberto-Moreno,Zsxdcfv10*,Alberto Moreno Rodriguez,Usuario de Informatica,DepInformatica
-Maria-Romero,Zsxdcfv10*,Maria Romero Garcia,Usuario de Informatica,DepInformatica
-Isaac-Rueda,Zsxdcfv10*,Isaac Rueda Biota,Usuario de Montaje,DepMontaje
-Nereida-Romero,Zsxdcfv10*,Nereida Romero Gil,Usuario de Montaje,DepMontaje
-Eva-Biota,Zsxdcfv10*,Eva Biota Catalan,Usuario de Logistica,DepLogistica
-Boni-Rueda,Zsxdcfv10*,Boni Rueda Gonzalez,Usuario de Logistica,DepLogistica
+cuenta,nombre,descripcion,grupo
+Alberto-Moreno,Alberto Moreno Rodriguez,Usuario de Informatica,DepInformatica
+Maria-Romero,Maria Romero Garcia,Usuario de Informatica,DepInformatica
+Isaac-Rueda,Isaac Rueda Biota,Usuario de Montaje,DepMontaje
+Nereida-Romero,Nereida Romero Gil,Usuario de Montaje,DepMontaje
+Eva-Biota,Eva Biota Catalan,Usuario de Logistica,DepLogistica
+Boni-Rueda,Boni Rueda Gonzalez,Usuario de Logistica,DepLogistica
